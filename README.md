@@ -146,11 +146,11 @@ Machine Learning
 
 <p>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/sakshi-srivastava12/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="YOUR_LEETCODE_URL">
+<a href="https://leetcode.com/u/sakshi_sri12/">
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
@@ -158,7 +158,7 @@ Machine Learning
 <img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks"/>
 </a>
 
-<a href="mailto:YOUR_GMAIL@gmail.com">
+<a href="mailto:sakshishine2004@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
