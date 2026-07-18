@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="C:\Users\ASUS\Downloads\banner.png" alt="GitHub Banner" width="100%">
+  <img src="banner.png" alt="GitHub Banner" width="100%">
 </p>
 <h1 align="center">Hi 👋, I'm Sakshi Srivastava</h1>
 
