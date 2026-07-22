@@ -107,9 +107,9 @@ Machine Learning
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sakshi-Srivastava12&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sakshi-Srivastava28&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi-Srivastava12&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi-Srivastava28&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -119,7 +119,7 @@ Machine Learning
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Sakshi-Srivastava12&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Sakshi-Srivastava28&theme=tokyonight"/>
 
 </p>
 
@@ -139,7 +139,7 @@ Machine Learning
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sakshi-Srivastava12&theme=tokyonight&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Sakshi-Srivastava28&theme=tokyonight&margin-w=15"/>
 
 </p>
 
