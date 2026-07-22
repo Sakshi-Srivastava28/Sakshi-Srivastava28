@@ -82,7 +82,7 @@ Machine Learning • Pandas • NumPy • Scikit-Learn • Streamlit
 
 ✔ MongoDB
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sakshi-Srivastava28&repo=Placement-Prediction&theme=tokyonight)](https://github.com/Sakshi-Srivastava28/Placement-Prediction)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sakshi-Srivastava28&repo=Placement-Prediction&theme=tokyonight)](https://github.com/Sakshi-Srivastava28/KalaSutra)
 ---
 
 ### 🤖 AI Chatbot
