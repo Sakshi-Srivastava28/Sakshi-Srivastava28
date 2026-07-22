@@ -67,8 +67,7 @@ Machine Learning • Pandas • NumPy • Scikit-Learn • Streamlit
 
 ---
 ## 🚀 Featured Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sakshi-Srivastava28&repo=Placement-Prediction&theme=tokyonight)](https://github.com/Sakshi-Srivastava28/Placement-Prediction)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Sakshi-Srivastava28&repo=Placement-Prediction&theme=tokyonight)](https://github.com/Sakshi-Srivastava28/Placement-Prediction)
 
 ### 🎯 Placement Prediction System
 
