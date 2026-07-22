@@ -67,22 +67,46 @@ Machine Learning • Pandas • NumPy • Scikit-Learn • Streamlit
 
 ---
 ## 🚀 Featured Projects
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Sakshi-Srivastava28&repo=Placement-Prediction&theme=tokyonight)](https://github.com/Sakshi-Srivastava28/Placement-Prediction)
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🎯 Placement Prediction System
 
-✔ Machine Learning
+AI-powered platform that predicts student placements, analyzes resumes using ATS scoring, and generates personalized career roadmaps.
 
-✔ Resume ATS Score Checker
+**🛠 Tech Stack**
 
-✔ Career Roadmap Generator
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-✔ Streamlit
+🔗 **Repository:**  
+https://github.com/Sakshi-Srivastava28/Placement-Prediction
 
-✔ MongoDB
+</td>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sakshi-Srivastava28&repo=Placement-Prediction&theme=tokyonight)](https://github.com/Sakshi-Srivastava28/KalaSutra)
----
+<td width="50%">
+
+### 🎨 KalaSutra
+
+A full-stack e-commerce platform where artists can upload and sell their artwork online.
+
+**🛠 Tech Stack**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+🔗 **Repository:**  
+https://github.com/Sakshi-Srivastava28/KalaSutra
+
+</td>
+</tr>
+</table>
 
 ### 🤖 AI Chatbot
 
